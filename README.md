@@ -13,7 +13,8 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=c4VY0by2IDs">▶ Ver video</a> ·
   <a href="docs/Manual_de_usuario_Detective_False_ID.pdf">Manual de usuario</a> ·
-  <a href="docs/Presentacion_Detective_False_ID.pdf">Presentación</a>
+  <a href="docs/Presentacion_Detective_False_ID.pdf">Presentación</a> ·
+  <a href="docs/Pendon_Detective_False_ID.pdf">Pendón</a>
 </p>
 
 ---
@@ -50,7 +51,7 @@ Detective_False_ID/           El juego (Processing 4)
   ├─ Detective_False_ID.pde
   ├─ data/                      Imágenes, fuentes y sonidos
   └─ LEEME.txt
-docs/                           Manual de usuario, presentación e imágenes del README
+docs/                           Manual de usuario, presentación, pendón e imágenes del README
 ```
 
 ## Equipo · Detectives y Asociados
