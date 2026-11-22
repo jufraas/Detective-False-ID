@@ -1,10 +1,10 @@
-DETECTIVE: FALSE ID · Laboratorio Único Feria Gamer 2026 · Entrega #2
-Equipo VBU_TLP_CBD_JCP · Algoritmia y Programación I · NRC 4511
+DETECTIVE: FALSE ID · 1.er lugar VI Feria Gamer 2026 · Universidad del Norte
+Equipo Detectives y Asociados · Algoritmia y Programación I · NRC 4511
 
 CÓMO ABRIRLO
   1. Descomprimir la carpeta completa (el .pde y la carpeta data van juntos y
      la carpeta debe llamarse igual que el .pde).
-  2. Abrir Lab_Entrega2_VBU_TLP_CBD_JCP.pde con Processing 4.
+  2. Abrir Detective_False_ID.pde con Processing 4.
   3. La primera vez: Sketch > Importar biblioteca > Gestionar bibliotecas,
      buscar "Sound" (The Processing Foundation) e instalarla.
   4. Ejecutar (botón ▶).
@@ -41,7 +41,7 @@ QUIÉN HIZO QUÉ (buscar "BLOQUE" en el código)
             contenidos y expediente con la lupa
   Valeria : casos de los días 1 a 4, puntos del contenido (L1), consejo del día (L2)
   Tomás   : puntos, niveles, logros, informe, ranking, reinicio y casos 5 a 7 (T1 a T7)
-  Jufra   : fechas y horas, validaciones, veredicto, resumen del día, informe,
+  Juan F. : fechas y horas, validaciones, veredicto, resumen del día, informe,
             finales, ranking, sonido, tarjetas de perfil e integración
 
 CARPETA data

@@ -38,7 +38,7 @@ Una red criminal usa perfiles falsos para engañar a estudiantes en Bogotá. Ere
 
 1. Instala [Processing 4](https://processing.org/download).
 2. En Processing: **Sketch → Importar biblioteca → Gestionar bibliotecas**, busca **Sound** (The Processing Foundation) e instálala.
-3. Descarga este repositorio y abre `Lab_Entrega2_VBU_TLP_CBD_JCP/Lab_Entrega2_VBU_TLP_CBD_JCP.pde`. La carpeta debe conservar ese nombre y tener al lado la carpeta `data`.
+3. Descarga este repositorio (**Code → Download ZIP**), descomprímelo y abre `Detective_False_ID/Detective_False_ID.pde`. La carpeta debe llamarse igual que el `.pde` y tener adentro la carpeta `data`.
 4. Presiona **Ejecutar** (▶).
 
 Controles: mouse para todo, teclado para escribir, **ENTER** salta animaciones y **M** silencia la música. Más detalles en el [manual de usuario](docs/Manual_de_usuario_Detective_False_ID.pdf).
@@ -46,17 +46,16 @@ Controles: mouse para todo, teclado para escribir, **ENTER** salta animaciones y
 ## Contenido del repositorio
 
 ```
-Lab_Entrega2_VBU_TLP_CBD_JCP/   Juego final en Processing (Entrega 2, Bonus Diamante)
-  ├─ Lab_Entrega2_VBU_TLP_CBD_JCP.pde
+Detective_False_ID/           El juego (Processing 4)
+  ├─ Detective_False_ID.pde
   ├─ data/                      Imágenes, fuentes y sonidos
   └─ LEEME.txt
-Lab_Entrega1_VBU_TLP_CBD_JCP/   Primera versión en Java (NetBeans, JOptionPane)
-docs/                           Manual de usuario, presentación e imágenes
+docs/                           Manual de usuario, presentación e imágenes del README
 ```
 
 ## Equipo · Detectives y Asociados
 
-| Integrante | Rol (Entrega 2) |
+| Integrante | Rol |
 |---|---|
 | Valeria Beltrán Urquijo | Gerente del proyecto |
 | Camilo Bolaño De La Hoz | Diseñador y desarrollador |
